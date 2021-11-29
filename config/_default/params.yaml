@@ -41,7 +41,7 @@ contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
+    link: 'https://twitter.com/szekany'
   # - icon: skype
   #   icon_pack: fab
   #   name: Skype Me
@@ -63,7 +63,7 @@ main_menu:
   show_logo: false
   show_language: false
   show_day_night: false
-  show_search: true
+  show_search: false
   highlight_active_link: true
 
 # Localization
