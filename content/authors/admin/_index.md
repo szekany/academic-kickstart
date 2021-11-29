@@ -74,4 +74,4 @@ I am a Ph.D. candidate at the University of Michigan where I am co-advised by To
 
 I am a strong proponent of computer science education for all, having taught at the high school through graduate school level. I recently served as a primary instructor for the undergraduate computer architecture class (EECS 370) at Michigan, and my paper on teaching out-of-order RISC-V core design as a capstone undergraduate course (EECS 470) was published at SIGCSE '21.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
