@@ -18,9 +18,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Visual Analytics
+- Computer Architecture
+- Computer Science Education
 
 # Education to show in About widget
 education:
@@ -59,10 +59,10 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-<!-- # - icon: cv
+# - icon: cv
 #   icon_pack: ai
 #   link: uploads/cv.pdf
- -->
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
