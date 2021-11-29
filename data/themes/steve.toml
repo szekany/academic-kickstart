@@ -1,8 +1,8 @@
 # Theme metadata
-name = "Steve"
+name = "steve"
 
 # Is theme light or dark?
-light = false
+light = true
 
 # Primary
 primary = "#1565c0"
