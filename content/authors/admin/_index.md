@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Computer Science and Engineering
+  - course: Ph.D. in Computer Science and Engineering
     institution: University of Michigan
     year: 2022
   - course: M.S. in Computer Science and Engineering
@@ -54,7 +54,7 @@ social:
   link: https://github.com/szekany
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/szekany
+  link: https://www.linkedin.com/in/szekany
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
