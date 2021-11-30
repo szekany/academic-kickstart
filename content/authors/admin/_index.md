@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Stephen Zekany
+title: Steve Zekany
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,7 +14,7 @@ organizations:
   url: https://www.umich.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 # Interests to show in About widget
 interests:
@@ -67,7 +67,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 ---
 
 I am a Ph.D. candidate at the University of Michigan where I am co-advised by Tom Wenisch and Ron Dreslinski. My research is primarily on software systems for visual analytics: developing frameworks and techniques at scale to leverage existing computer vision models and kernels. I am currently working on a project funded by the ADA (Applications Driving Architectures) Center, previously having worked on projects funded by Toyota Research Institute and ARM. I interned at ARM three times, once with the CPU Engineering group (working on what became the Cortex-A76) and twice with the High Performance Computing Research group.
