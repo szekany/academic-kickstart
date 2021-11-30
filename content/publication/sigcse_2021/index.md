@@ -36,7 +36,7 @@ Students use the concepts learned in class to design processors with the goals o
 We explain the project content and process in detail, identify the challenges involved for students and the necessary instructor support, and share statistics and student feedback about the project. We have open-sourced our lab and project materials to enable others to teach similar courses.
 
 # Summary. An optional shortened abstract.
-summary: e describe our experience teaching an undergraduate capstone (and elective graduate course) in computer architecture with a semester-long project in which teams of five students design and implement an out-of-order (OoO) pipelined processor core using the open-source RISC-V instruction set.
+summary: We describe our experience teaching an undergraduate capstone (and elective graduate course) in computer architecture with a semester-long project in which teams of five students design and implement an out-of-order (OoO) pipelined processor core using the open-source RISC-V instruction set.
 
 tags: []
 
