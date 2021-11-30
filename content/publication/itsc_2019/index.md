@@ -5,14 +5,14 @@ title: "Classifying Ego-Vehicle Road Maneuvers from Dashcam Video"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
+- Stephen A. Zekany
 - Ronald G. Dreslinski
 - Thomas F. Wenisch
 
 # Author notes (optional)
-author_notes:
-#- "Equal contribution"
-#- "Equal contribution"
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 
 date: "2019-010-25T00:00:00Z"
 doi: ""
@@ -27,8 +27,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Intelligent Transportation Systems*
-publication_short: In *ITS*
+publication: In *Conference on Intelligent Transportation Systems*
+publication_short: In *ITSC*
 
 abstract: A key challenge for self-driving vehicle researchers is to curate massive instrumented vehicle data sets. A common task in their development workflow is to extract video segments that meet particular criteria, such as a particular road scenario or vehicle maneuver. We present a novel approach for detecting vehicle maneuvers from monocular dash-cam video building upon a deep learning visual odometry model (DeepV2D) to estimate frame-accurate ego-vehicle movement. We classify movement sequences against reference maneuvers using dynamic time warping and simple heuristics. We show that using deep learning visual odometry to estimate location is superior to consumer-grade high-resolution GPS for this application. We describe and implement a greedy approach to classify maneuvers and evaluate our approach on non-trivial road maneuvers, finding an overall AUROC value of 0.84.
 
