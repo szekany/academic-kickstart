@@ -5,7 +5,7 @@ title: "Classifying Ego-Vehicle Road Maneuvers from Dashcam Video"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
+- **Stephen A. Zekany**
 - Ronald G. Dreslinski
 - Thomas F. Wenisch
 
