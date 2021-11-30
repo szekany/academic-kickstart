@@ -48,7 +48,7 @@ links:
  - name: "Course Repository"
    url: https://github.com/jieltan/OpenCompArchCourse
 
-url_pdf: 'SIGCSE_2021_470_RISCV.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
