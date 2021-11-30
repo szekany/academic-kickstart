@@ -1,14 +1,14 @@
 ---
-title: "An example conference paper"
+title: "Teaching Out-of-Order Processor Design with the RISC-V ISA"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Stephen A. Zekany
-- Jielan Tan
-- Ronald G. Dreslinski
-- Robert Ford
+- "Stephen A. Zekany"
+- "Jielun Tan"
+- "James A. Connolly"
+- "Ronald G. Dreslinski"
 
 # Author notes (optional)
 author_notes:
@@ -30,8 +30,8 @@ publishDate: "2021-06-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *ISCA Workshop on Computer Architecture Education (WCAE '21)*
+publication_short: In *ISCA Workshop on Computer Architecture Education (WCAE '21)*
 
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
