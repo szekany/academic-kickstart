@@ -25,7 +25,7 @@ publishDate: "2021-10-25T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *N/A*
@@ -42,16 +42,16 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
-links:
- - name: Slides (PPT)
-   url: https://docs.google.com/presentation/d/1LXJC9QWPG4b4gz-O9UTQtca3YiC0Ub9T/edit?usp=sharing&ouid=117370703190601304810&rtpof=true&sd=true
+# links:
+# - name: Slides (PPT)
+#   url: https://docs.google.com/presentation/d/1LXJC9QWPG4b4gz-O9UTQtca3YiC0Ub9T/edit?usp=sharing&ouid=117370703190601304810&rtpof=true&sd=true
 
-url_pdf: 'classifying_maneuvers_ITSC_2019'
+url_pdf: 'Indexing_Vehicle_Maneuvers_ITS-T_draft.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'ITSC_VehiQL_2019_slides.pdf'
+url_slides: ''
 url_source: ''
 url_video: ''
 
