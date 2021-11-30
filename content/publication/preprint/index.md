@@ -1,5 +1,5 @@
 ---
-title: "Finding and Indexing Vehicle Maneuvers from Dashboard Camera Video (PREPRINT)"
+title: "Finding and Indexing Vehicle Maneuvers from Dashboard Camera Video (PREPRINT DRAFT)"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -46,7 +46,7 @@ featured: false
 # - name: Slides (PPT)
 #   url: https://docs.google.com/presentation/d/1LXJC9QWPG4b4gz-O9UTQtca3YiC0Ub9T/edit?usp=sharing&ouid=117370703190601304810&rtpof=true&sd=true
 
-url_pdf: 'Indexing_Vehicle_Maneuvers_ITS-T_draft.pdf'
+url_pdf: 'preprint/Indexing_Vehicle_Maneuvers_ITS-T_draft.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
