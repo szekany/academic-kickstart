@@ -27,7 +27,7 @@ education:
   courses:
   - course: Ph.D. in Computer Science and Engineering
     institution: University of Michigan
-    year: 2022
+    year: 2016-
   - course: M.S. in Computer Science and Engineering
     institution: University of Michigan
     year: 2016
