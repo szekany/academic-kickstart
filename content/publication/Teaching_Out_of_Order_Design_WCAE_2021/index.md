@@ -30,8 +30,8 @@ publishDate: "2021-06-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *ISCA Workshop on Computer Architecture Education (WCAE '21)*
-publication_short: In *ISCA Workshop on Computer Architecture Education (WCAE '21)*
+publication: *ISCA Workshop on Computer Architecture Education (WCAE '21)*
+publication_short: *ISCA Workshop on Computer Architecture Education (WCAE '21)*
 
 abstract: We describe our experience teaching an undergraduate capstone (and elective graduate course) in computer architecture with a semester-long project in which teams of five students design and implement an out-of-order (OoO) pipelined processor core using the open-source RISC-V instruction set. The course content includes OoO scheduling algorithms for instructions to exploit instruction- level parallelism (ILP), example designs, caching, prefetching, and virtual memory. The labs and projects help students gain proficiency with the SystemVerilog language. Students use the concepts learned in class to design processors with the goals of achieving correctness and high performance for a suite of representative test programs. Using RISC-V enables students to validate and benchmark their designs by compiling test programs using GCC with a custom linker. By collaborating as a team, students learn how to write and debug a large code base over the two-month project. For computer architecture educators, we describe technical aspects of the final project and common advanced features implemented by students. We hope describing our experience serves not only to demonstrate a method of teaching modern computer architecture, but also to inspire other course designs centered around other aspects of modern computer architecture (GPUs, FPGAs, hardware/software codesign, etc).
 
