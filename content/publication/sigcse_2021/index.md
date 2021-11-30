@@ -45,7 +45,7 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
- - name: Course Repository
+ - name: "Course Repository"
   url: https://github.com/jieltan/OpenCompArchCourse
 
 url_pdf: 'SIGCSE_2021_470_RISCV.pdf'
