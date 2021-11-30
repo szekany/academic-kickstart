@@ -45,7 +45,7 @@ links:
  - name: Slides (PPT)
    url: https://docs.google.com/presentation/d/1LXJC9QWPG4b4gz-O9UTQtca3YiC0Ub9T/edit?usp=sharing&ouid=117370703190601304810&rtpof=true&sd=true
 
-url_pdf: 'classifying_maneuvers_ITSC_2019'
+url_pdf: 'classifying_maneuvers_ITSC_2019.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

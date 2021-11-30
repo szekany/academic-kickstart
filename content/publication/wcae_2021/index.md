@@ -48,12 +48,12 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'wcae_2021/Zekany_ISCA_WCAE_Teaching_Out_of_Order_Design.pdf'
+url_pdf: 'Zekany_ISCA_WCAE_Teaching_Out_of_Order_Design.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'wcae_2021/WCAE_Teaching_Out_of_Order_Design_slides.pptx'
+url_slides: 'WCAE_Teaching_Out_of_Order_Design_slides.pptx'
 url_source: ''
 url_video: ''
 
