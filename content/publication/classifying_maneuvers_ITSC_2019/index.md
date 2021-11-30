@@ -27,8 +27,8 @@ publishDate: "2019-10-25T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: *Intelligent Transportation Systems Conference (ITSC '19)*
-publication_short: *Intelligent Transportation Systems Conference (ITSC '19)*
+publication: In *Intelligent Transportation Systems Conference (ITSC '19)*
+publication_short: In *Intelligent Transportation Systems Conference (ITSC '19)*
 
 abstract: A key challenge for self-driving vehicle researchers is to curate massive instrumented vehicle data sets. A common task in their development workflow is to extract video segments that meet particular criteria, such as a particular road scenario or vehicle maneuver. We present a novel approach for detecting vehicle maneuvers from monocular dash-cam video building upon a deep learning visual odometry model (DeepV2D) to estimate frame-accurate ego-vehicle movement. We classify movement sequences against reference maneuvers using dynamic time warping and simple heuristics. We show that using deep learning visual odometry to estimate location is superior to consumer-grade high-resolution GPS for this application. We describe and implement a greedy approach to classify maneuvers and evaluate our approach on non-trivial road maneuvers, finding an overall AUROC value of 0.84.
 
