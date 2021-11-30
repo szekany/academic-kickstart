@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Steve Zekany | University of Michigan # Website name
+title: Stephen A. Zekany | University of Michigan # Website name
 baseurl: 'https://szekany.io' # Website URL
-copyright: '©2021 Steve Zekany' # Footer text, e.g. '© {year} Me'
+copyright: '©2021 Stephen A. Zekany' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
