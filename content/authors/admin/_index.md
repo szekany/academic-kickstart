@@ -69,6 +69,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+If you found me from a photo I shared today on social media, well, uh, hi.
 
 I am a Ph.D. candidate at the University of Michigan where I am co-advised by [Tom Wenisch](https://web.eecs.umich.edu/~twenisch/) and [Ron Dreslinski](https://web.eecs.umich.edu/~rdreslin/). My research is primarily on software systems for visual analytics: developing frameworks and techniques at scale to leverage existing computer vision models and kernels. I am currently working on a project funded by the [ADA (Applications Driving Architectures) Center](http://www.adacenter.org), previously having worked on projects funded by [Toyota Research Institute](https://www.tri.global/) and [ARM](http://www.arm.com). I interned at ARM three times, once with the CPU Engineering group (helping design what became the [Cortex-A76](https://en.wikipedia.org/wiki/ARM_Cortex-A76)) and twice with the High Performance Computing Research group.
 
